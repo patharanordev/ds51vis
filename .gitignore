@@ -1,0 +1,4 @@
+data/*
+!data/.empty
+
+.DS_Store
